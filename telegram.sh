@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Notification for Zabbix
+
 TOKEN='IDBOOOT:COOONNETCWITHBOOOT'
 
 if [ $# -ne 3 ] ; then echo 'Error! You must to define three params' && exit 1 ; fi
